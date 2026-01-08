@@ -1,5 +1,7 @@
-# GCP Automated Incident Response Pipeline
-This project demonstrates an automated Security Operations Center (SOC) workflow.
+## Automated Incident Response Pipeline
+Designed to mirror SOC-style alerting and IAM remediation workflows.
+This project simulates enterprise incident response by detecting security events, triggering automated workflows, and enforcing IAM remediation actions using Python and Google Cloud services.
+
 
 ## Scenario
 A compromised service account begins deleting critical objects in a production GCS bucket. 
